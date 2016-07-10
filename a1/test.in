@@ -1,0 +1,10 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.0  24460  2336 ?        Ss    2015   0:32 sbin/init
+root         2	0.0  0.0      0     0 ?        S     2015   0:00 kthreadd]
+nobody    2046  0.0  0.0   4300   624 ?        S     2015   0:00 logger -i -t publicfile-httpd -p daemon.info
+ccc      20523  0.0  0.4  17840  1364 ?        Ss   Jan20   0:00 tcsh -c xterm -T redwolf
+c6stud   15252  0.0  0.0  18188  1992 pts/56   Ss   12:48   0:00 -tcsh
+c3stud   26893 30.0  0.3 4267940 234960 pts/40 SNl+ 15:13  22:08 /local/packages/matlab-R2014a/bin/glnxa64/MATLAB -c 27000@licsrv.cdf.toronto.edu:27000:@licsrv.cdf.toronto.edu
+g2stud22 32935  0.5  0.0 172824 11424 pts/39   Sl+  16:22   0:01 vim write_blocks.cc
+root     33164  1.2  0.0  38032  4368 ?        Ss   16:26   0:00 cfagent --define cdfbasic.network.dhcpc.ntp.non
+root     65524  0.0  0.0      0     0 ?        S<   08:55   0:00 kworker/u136:2]

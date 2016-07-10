@@ -1,0 +1,23 @@
+anson g5chen0,1,11591,/u/csc209h/winter/pub/bin/checkstep1 ,Step 1 successfully completed.
+1,2,11591,/u/csc209h/winter/pub/bin/checkstep2 ,The SHELL variable is not bash
+1,2,11591,/u/csc209h/winter/pub/bin/checkstep2 ,The SHELL variable is not bash
+0,1,11591,/u/csc209h/winter/pub/bin/checkstep1 ,Step 1 successfully completed.
+1,2,11591,/u/csc209h/winter/pub/bin/checkstep2 ,The SHELL variable is not bash
+1,2,11591,/u/csc209h/winter/pub/bin/checkstep2 ,The SHELL variable is not bash
+0,2,11591,/u/csc209h/winter/pub/bin/checkstep2 ,Step 2 successfully completed.
+0,3,11591,checkstep3 ,Step 3 successfully completed.
+0,3,11591,checkstep3 ,Step 3 successfully completed.
+1,5,11591,checkstep5 ,COLOUR does not exist
+1,5,11591,checkstep5 ,COLOUR does not exist
+0,5,11591,checkstep5 ,Step 5 successfully completed.
+0,6,11591,checkstep6 ,Step 6 successfully completed.
+1,7,11591,checkstep7 -p 52871 ,PID not found
+0,7,11591,checkstep7 -p 52564 ,Step 7 successfully completed.
+0,7,11591,checkstep7 -p 52564 ,Step 7 successfully completed.
+0,71,11591,checkstep71 -p 52564 ,Step 7.1 successfully completed.
+0,72,11591,checkstep72 ,Step 7.2 successfully completed.
+1,8,11591,checkstep8 -n 526 ,psout not found
+1,8,11591,checkstep8 -n 506 ,psout not found
+1,8,11591,checkstep8 -n 514 ,Number of processes did not match.
+0,8,11591,checkstep8 -n 513 ,Step 8 successfully completed.
+0,8,11591,checkstep8 -n 520 ,Step 8 successfully completed.
